@@ -52,7 +52,7 @@ namespace startscreen
             formGraphics.DrawLine(linePen, 0, 75, 225, 75);
             formGraphics.DrawLine(linePen, 272, 5, 272, 250);
             formGraphics.DrawLine(linePen, 222, 75, 222, 250);
-
+            //test
            
         }
     }
