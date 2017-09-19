@@ -61,15 +61,6 @@ namespace startscreen.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
-        /// </summary>
-        internal static System.IO.UnmanagedMemoryStream beep_02 {
-            get {
-                return ResourceManager.GetStream("beep_02", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap CMzXgYUver2 {
@@ -82,9 +73,18 @@ namespace startscreen.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream Im_Pickle_Rick_ {
+        internal static System.IO.UnmanagedMemoryStream pacman_beginning {
             get {
-                return ResourceManager.GetStream("Im_Pickle_Rick_", resourceCulture);
+                return ResourceManager.GetStream("pacman_beginning", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream pacman_chomp {
+            get {
+                return ResourceManager.GetStream("pacman_chomp", resourceCulture);
             }
         }
         
